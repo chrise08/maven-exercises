@@ -17,6 +17,9 @@ public class StringManipulation {
 //		}
 		
 		// flips case of the string
-		System.out.println(StringUtils.swapCase(userInput));
+//		System.out.println(StringUtils.swapCase(userInput));
+		
+		// flips the string
+		System.out.println(StringUtils.reverse(userInput));
 	}
 }
